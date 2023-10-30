@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\bin\Debug\net6.0\October30Practice.exe
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\bin\Debug\net6.0\October30Practice.deps.json
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\bin\Debug\net6.0\October30Practice.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\bin\Debug\net6.0\October30Practice.dll
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\bin\Debug\net6.0\October30Practice.pdb
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.dll
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\refint\October30Practice.dll
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.pdb
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\October30Practice.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Class\October30Practice\October30Practice\obj\Debug\net6.0\ref\October30Practice.dll
